@@ -1,0 +1,14 @@
+# Essential Dependencies - Tech Stack
+python-dotenv>=1.0.0
+pandas>=2.0.0
+numpy>=1.24.0
+pytest>=7.4.0
+tabulate>=0.9.0
+google-genai>=0.10.0
+
+# Future Phase Dependencies (Assessment Reference)
+streamlit>=1.28.0
+plotly>=5.15.0
+scipy>=1.10.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
